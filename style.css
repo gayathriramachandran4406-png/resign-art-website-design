@@ -752,7 +752,9 @@ h2{
         height: 25px;
         font-size: 15px;
     }
-
+    .footer-contact a{
+    pointer-events: auto;
+}
 
     /* FOOTER IMAGE */
 
